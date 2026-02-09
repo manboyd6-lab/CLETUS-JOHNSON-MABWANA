@@ -11,7 +11,7 @@ The website uses a **social-network-style layout** where sellers can post house 
 
 ## Repository Information
 - **GitHub Repository Name:** Chelstone-Houses-Network  
-- **Repository Link:** https://github.com/yourusername/Chelstone-Houses-Network  
+- **Repository Link:** 
 
 ## Website Structure
 The website is built using **HTML only** and structured with tables to organize content into:
@@ -96,3 +96,4 @@ The purpose of this project is to:
 - Enable interaction between buyers and sellers
 
 ## File Structure
+
