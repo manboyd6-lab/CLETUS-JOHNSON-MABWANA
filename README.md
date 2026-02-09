@@ -11,7 +11,7 @@ The website uses a **social-network-style layout** where sellers can post house 
 
 ## Repository Information
 - **GitHub Repository Name:** Chelstone-Houses-Network  
-- **Repository Link:** 
+- **Repository Link:** https://github.com/manboyd6-lab/CLETUS-JOHNSON-MABWANA.git
 
 ## Website Structure
 The website is built using **HTML only** and structured with tables to organize content into:
@@ -96,4 +96,5 @@ The purpose of this project is to:
 - Enable interaction between buyers and sellers
 
 ## File Structure
+
 
